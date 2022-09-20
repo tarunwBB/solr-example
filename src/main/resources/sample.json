@@ -1,0 +1,22 @@
+{
+  "id": "0553573403",
+  "cat": [
+    "book"
+  ],
+  "name": [
+    "A Game of Thrones"
+  ],
+  "price": [
+    7.99
+  ],
+  "inStock": [
+    true
+  ],
+  "author": [
+    "George R.R. Martin"
+  ],
+  "series_t": "A Song of Ice and Fire",
+  "sequence_i": 1,
+  "genre_s": "fantasy",
+  "_version_": 1743957147538948096
+}
